@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kotzeas@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am 46 years old and I am starting a new career by studying Python.
-- :aries:
-- :earth_africa:
 -->
