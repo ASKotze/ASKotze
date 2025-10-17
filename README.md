@@ -1,4 +1,4 @@
-### Hi there :earth_africa: :family:
+### Hi there my name is Braam :earth_africa: :family:
 - 🔭 I’m currently working on the next phase of my life where I am studying Python.
 - 🌱 I’m currently studying Python which will hopefully lead me to a new career.
 - 👯 I’m looking to collaborate on anything Python.
