@@ -5,4 +5,4 @@
 - 🤔 I’m seeking assistance with Python programming, Python career advice and guidance and eventually a possible career in Python.
 - 💬 Please ask me about my availability to assist with anything to do with Python. I am very eager to learn!
 - 📫 Please reach me at: kotzeas@gmail.com
-- ⚡ Fun fact: I am almost 50 and I am starting a new career in Python programming. How scary and exciting is that!
+- ⚡ Fun fact: I am 50 and I am starting a new career in Python programming. How scary and exciting is that!
